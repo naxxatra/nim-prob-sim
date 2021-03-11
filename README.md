@@ -18,3 +18,6 @@ probability that
 
 *Provided both players play optimally*
 
+## Result
+
+![img](plot.png)
